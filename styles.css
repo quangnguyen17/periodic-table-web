@@ -1,0 +1,57 @@
+body {
+    padding: 8px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    color: red;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin: 2px;
+}
+
+.blank {
+    opacity: 0;
+    border-style: none;
+}
+
+.element {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.mr {
+    margin-right: 8px;
+}
+
+.text-box {}
+
+.blue-box {
+    background-color: dodgerblue;
+}
+
+.yellow-box {
+    background: darkkhaki;
+}
+
+.red-box {
+    background-color: darksalmon;
+}
+
+.green-box {}
